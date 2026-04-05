@@ -6,7 +6,7 @@ noCvSs = true
 exportGlyphNames = false
 
 [buildPlans.Iosevie.variants.design]
-one = "base-long-top-serif"
+one = "base-flat-top-serif"
 four = "closed-serifless"
 five = "upright-flat-serifless"
 six = "closed-contour"
