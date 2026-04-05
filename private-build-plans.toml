@@ -6,11 +6,13 @@ noCvSs = true
 exportGlyphNames = false
 
 [buildPlans.Iosevie.variants.design]
+one = "base-long-top-serif"
 four = "closed-serifless"
 five = "upright-flat-serifless"
 six = "closed-contour"
 seven = "bend-serifless"
 nine = "closed-contour"
+zero = "tall-slashed"
 capital-g = "toothless-corner-serifless-hooked"
 capital-k = "symmetric-connected-serifless"
 capital-q = "detached-tailed"
