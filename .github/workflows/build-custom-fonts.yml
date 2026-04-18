@@ -69,6 +69,8 @@ jobs:
     name: Commit fonts to repo
     runs-on: ubuntu-latest
     needs: [build]
+    permissions:
+      contents: write
     steps:
       - name: Checkout customization repo
         uses: actions/checkout@v5
