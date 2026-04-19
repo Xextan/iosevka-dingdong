@@ -6,6 +6,10 @@ noCvSs = true
 exportGlyphNames = false
 noLigation = true
 
+[buildPlans.IosevkaDingdong.metricOverride]
+dotsize = "weight"
+periodsize = "weight"
+
 [buildPlans.IosevkaDingdong.variants.design]
 two = "straight-neck-serifless"
 seven = "straight-serifed"
